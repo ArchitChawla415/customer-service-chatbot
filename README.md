@@ -46,4 +46,22 @@ Customer service is a $93B industry, yet many interactions lack empathy and clar
 📄 **[preprocessed_amazon_df_with_vader_scores_and_score_classification_and_imputations.csv](preprocessed_amazon_df_with_vader_scores_and_score_classification_and_imputations.csv)** — Preprocessed dataset with imputations  
 
 📄 **[README.md](README.md)** — Project documentation  
-📄 **[.gitattributes](.gitattributes)** — Git LFS tracking  
+📄 **[.gitattributes](.gitattributes)** — Git LFS tracking
+
+## 📄 Documentation
+
+- [📑 **Project Report (PDF)**](Archit%20Chawla%20-%20ETliens%20Project%20Report.pdf) — Full methodology, dataset details, preprocessing, model training, and evaluation.
+- [📊 **Project Presentation (PPTX)**](ETLiens%20Project%20Presentation.pptx) — Slides summarizing the project workflow, models, and results.
+
+
+## 📊 Results & Insights
+
+### CSAT Score Prediction (RoBERTa)
+![CSAT Model Results](docs/images/csat_model_results.png)
+
+### Conversation Evaluation (Flan-T5)
+![Conversation Evaluation Chart](docs/images/conversation_eval_chart.png)
+
+### Tableau Dashboard Overview
+![Dashboard Screenshot](docs/images/dashboard_screenshot.png)
+
